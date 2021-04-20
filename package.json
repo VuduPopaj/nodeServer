@@ -1,0 +1,27 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "My First NodeJS Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuduPopaj/nodeServer.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Adnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VuduPopaj/nodeServer/issues"
+  },
+  "homepage": "https://github.com/VuduPopaj/nodeServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
